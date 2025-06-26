@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="br.edu.utfpr.login_pm46s_2025_1" />
+                  <option name="mobileSdkAppId" value="1:612012424828:android:fc34003e6a9733745b93f9" />
+                  <option name="projectId" value="login-pm46s-2025-1" />
+                  <option name="projectNumber" value="612012424828" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
